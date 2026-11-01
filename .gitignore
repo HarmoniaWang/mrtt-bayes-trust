@@ -1,0 +1,7 @@
+fit_*/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+slurm/logs/
